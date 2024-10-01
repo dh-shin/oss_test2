@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
+
+
 const lib = require("./lib");
 
 if (process.argv.length <= 3) {
